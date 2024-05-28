@@ -2,7 +2,7 @@
 A web weaver
 
 ## Who I am
-I am a passionate full-stack web developer with expertise in the LAMP stack and microservices architecture. With over 8 years of experience, I have built numerous impressive web applications. I specialize in building sustainable e-commerce systems that are scalable and reliable.
+I am a passionate full-stack web developer with expertise in the LAMP stack and microservices architecture. With over 9 years of experience, I have built numerous impressive web applications. I specialize in building sustainable e-commerce systems that are scalable and reliable.
 
 ## What I have
 - **Full-Stack Development:** Proficient in both front-end and back-end development, including building new features, designing user interfaces, and implementing server-side functionality.
